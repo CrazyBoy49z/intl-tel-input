@@ -31,7 +31,7 @@
     "grunt-exec": "^1.0.1",
     "grunt-replace": "^1.0.1",
     "grunt-responsive-images": "^1.10.1",
-    "grunt-sass": "^2.0.0",
+    "grunt-sass": "^4.0.0",
     "grunt-shell": "^2.1.0",
     "grunt-spritesmith": "^6.4.0",
     "grunt-template": "^1.0.0",
